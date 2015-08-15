@@ -2,7 +2,7 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
     <!-- BUILD TWEAKS -->
-    <string name="header_category_chroma">Personalization</string>
+    <string name="header_category_chroma">Personalisieren</string>
     <string name="chroma_settings_title">Chroma</string>
 
     <!-- About phone screen, build date of ROM -->
@@ -13,30 +13,30 @@
     <string name="supersu_title">SuperSU</string>
 
     <!-- Chroma Menu -->
-    <string name="chroma_menu_personalizaton">Chroma options</string>
-    <string name="chroma_menu_about">About Chroma</string>
-    <string name="status_bar_screen_title">Status bar</string>
-    <string name="navigation_bar_screen_title">Navigation bar</string>
-    <string name="lockscreen_title">Lock screen</string>
-    <string name="power_menu_title">Power menu</string>
-    <string name="volume_rocker_screen_title">Volume rocker</string>
+    <string name="chroma_menu_personalizaton">Chromaoptionen</string>
+    <string name="chroma_menu_about">Über Chroma</string>
+    <string name="status_bar_screen_title">Statusbar</string>
+    <string name="navigation_bar_screen_title">Navigationbar</string>
+    <string name="lockscreen_title">Sperrbildschirm</string>
+    <string name="power_menu_title">Powermenü</string>
+    <string name="volume_rocker_screen_title">Lautstärkewippe</string>
 
     <!-- Chroma categories -->
-    <string name="display_category_batteryclock_options_title">Battery and clock options</string>
-    <string name="display_category_lockscreen_options_title">Lockscreen options</string>
-    <string name="display_category_navbar_options_title">Navigation bar options</string>
-    <string name="display_category_navring_options_title">Navigation ring options</string>
-    <string name="display_category_statusbar_options_title">Status bar options</string>
-    <string name="display_category_recents_options_title">Recent apps options</string>
-    <string name="display_category_power_options_title">Power menu options</string>
-    <string name="volume_rocker_other_title">Miscellaneous</string>
+    <string name="display_category_batteryclock_options_title">Batterie- und Uhroptionen</string>
+    <string name="display_category_lockscreen_options_title">Sperrbildschirmoption</string>
+    <string name="display_category_navbar_options_title">Navigationbaroptionen</string>
+    <string name="display_category_navring_options_title">Navigationringoption</string>
+    <string name="display_category_statusbar_options_title">Statusbaroption</string>
+    <string name="display_category_recents_options_title">Recent apps Option</string>
+    <string name="display_category_power_options_title">Powermenüoption</string>
+    <string name="volume_rocker_other_title">Sonstiges</string>
 
     <!-- Navigation Bar -->
-    <string name="navigation_bar_title">Navigation bar</string>
+    <string name="navigation_bar_title">Navigationbar</string>
 
     <!-- Navigation Bar Height -->
-    <string name="navigation_bar_height">Navigation bar height</string>
-    <string name="navigation_bar_height_48">48dp (default)</string>
+    <string name="navigation_bar_height">Navigationbarhöhe</string>
+    <string name="navigation_bar_height_48">48dp (standart)</string>
     <string name="navigation_bar_height_44">44dp</string>
     <string name="navigation_bar_height_40">40dp</string>
     <string name="navigation_bar_height_36">36dp</string>
@@ -44,56 +44,56 @@
     <string name="navigation_bar_height_28">28dp</string>
     <string name="navigation_bar_height_24">24dp</string>
     <string name="navigation_bar_height_20">20dp</string>
-    <string name="navigation_bar_height_0">0dp (hide)</string>
+    <string name="navigation_bar_height_0">0dp (verbergen)</string>
 
     <!--- Volume key cursor control -->
-    <string name="volume_key_cursor_control_title">Volume key cursor control</string>
-    <string name="volume_key_cursor_control_off">Disabled</string>
-    <string name="volume_key_cursor_control_on">Volume up/down moves cursor left/right</string>
-    <string name="volume_key_cursor_control_on_reverse">Volume up/down moves cursor right/left</string>
+    <string name="volume_key_cursor_control_title">Lautstärke-Taste Cursor-Steuerung</string>
+    <string name="volume_key_cursor_control_off">Deaktivieren</string>
+    <string name="volume_key_cursor_control_on">Lautstärke auf/ab bewegt den Cursor nach links/rechts</string>
+    <string name="volume_key_cursor_control_on_reverse">Lautstärke auf/ab bewegt den Cursor nach rechts/links</string>
 
     <!-- Volume adjust sound -->
-    <string name="volume_key_adjust_sound_title">Volume key adjustment sound</string>
-    <string name="volume_key_adjust_sound_summary">Play sound when adjusting volume with volume keys</string>
+    <string name="volume_key_adjust_sound_title">Lautstärke-Taste Soundeinstellung</string>
+    <string name="volume_key_adjust_sound_summary">Wiedergabe Sound beim Einstellen der Lautstärke mit Lautstärketasten</string>
 
     <!-- Developer options - kill app long press back -->
     <string name="kill_app_longpress_back">Kill app back button</string>
     <string name="kill_app_longpress_back_summary">Kill the foreground app by long-pressing the back key</string>
 
     <!-- Network traffic -->
-    <string name="network_traffic_title">Network traffic</string>
-    <string name="show_network_traffic_state">Status bar traffic monitor</string>
-    <string name="network_traffic_summary">Enable various network traffic options in statusbar</string>
-    <string name="show_network_traffic_unit">Display unit</string>
-    <string name="show_network_traffic_frequency">Update interval</string>
-    <string name="show_network_traffic_disable">Disabled</string>
-    <string name="show_network_traffic_up">Outgoing</string>
-    <string name="show_network_traffic_down">Incoming</string>
-    <string name="show_network_traffic_all">Outgoing and incoming</string>
-    <string name="show_network_traffic_bit">Bits per second</string>
-    <string name="show_network_traffic_byte">Bytes per second</string>
+    <string name="network_traffic_title">Netzwerkverkehr</string>
+    <string name="show_network_traffic_state">Netzwerkanzeige in Statusbar anzeigen</string>
+    <string name="network_traffic_summary">Aktiviere verschiedene Netzwerkverkehroptioen in der Statusbar</string>
+    <string name="show_network_traffic_unit">Anzeigeeinheit</string>
+    <string name="show_network_traffic_frequency">Aktualisierungsintervall</string>
+    <string name="show_network_traffic_disable">Deaktivieren</string>
+    <string name="show_network_traffic_up">Abgehend</string>
+    <string name="show_network_traffic_down">Eingehend</string>
+    <string name="show_network_traffic_all">Abgehend and Eingehend</string>
+    <string name="show_network_traffic_bit">Bits pro Sekunde</string>
+    <string name="show_network_traffic_byte">Bytes pro Sekunde</string>
     <string name="show_network_traffic_500">500 ms</string>
     <string name="show_network_traffic_1000">1000 ms</string>
     <string name="show_network_traffic_1500">1500 ms</string>
     <string name="show_network_traffic_2000">2000 ms</string>
-    <string name="network_traffic_autohide">Auto hide</string>
-    <string name="network_traffic_autohide_summary">Hide the traffic monitor when there is no activity</string>
-    <string name="network_traffic_autohide_threshold">Inactivity threshold</string> 
+    <string name="network_traffic_autohide">Automatisch im Hintergrund</string>
+    <string name="network_traffic_autohide_summary">Blendet die Anzeige aus, wenn keine es Aktivität gibt</string>
+    <string name="network_traffic_autohide_threshold">Inaktivitätsschwelle</string> 
 
    <!-- Generic strings -->
     <string name="ok_string">OK</string>
-    <string name="default_string">Default</string>
-    <string name="enabled_string">Enabled</string>
-    <string name="disabled_string">Disabled</string>
+    <string name="default_string">Standart</string>
+    <string name="enabled_string">Aktiviert</string>
+    <string name="disabled_string">Deaktiviert</string>
     <string name="general_string">General</string>
-    <string name="reset_string">Reset</string>
-    <string name="empty_string">Empty</string>
-    <string name="font_size_sample">Sample</string>
+    <string name="reset_string">zurücksetzen</string>
+    <string name="empty_string">leer</string>
+    <string name="font_size_sample">Probe</string>
     <string name="attention">Attention</string>
 
     <!-- Display : Rotation -->
     <string name="display_rotation_title">Rotation</string>
-    <string name="display_rotation_disabled">Disabled</string>
+    <string name="display_rotation_disabled">Deaktivieren</string>
     <string name="display_rotation_unit">degrees</string>
     <string name="display_rotation_category_title">Rotation modes</string>
     <string name="display_rotation_0_title">0 degrees</string>
@@ -102,35 +102,35 @@
     <string name="display_rotation_270_title">270 degrees</string>
 
     <!-- Recents panel settings -->
-    <string name="recents_panel_settings">Recents panel settings</string>
+    <string name="recents_panel_settings">Recents panel Einstellungen</string>
     <string name="show_clear_all_recents_button_title">Clear all recents button</string>
     <string name="show_clear_all_recents_button_summary">Show clear all button on recents panel</string>
-    <string name="recents_clear_all_location_title">Clear all recents location</string>
-    <string name="recents_clear_all_location_top_right">Top right</string>
-    <string name="recents_clear_all_location_top_center">Top center</string>
-    <string name="recents_clear_all_location_top_left">Top left</string>
-    <string name="recents_clear_all_location_bottom_right">Bottom right</string>
-    <string name="recents_clear_all_location_bottom_center">Bottom center</string>
-    <string name="recents_clear_all_location_bottom_left">Bottom left</string>
+    <string name="recents_clear_all_location_title">Clear all recents Postion</string>
+    <string name="recents_clear_all_location_top_right">Oben rechts</string>
+    <string name="recents_clear_all_location_top_center">Open mitte</string>
+    <string name="recents_clear_all_location_top_left">Oben links</string>
+    <string name="recents_clear_all_location_bottom_right">Unten rechts</string>
+    <string name="recents_clear_all_location_bottom_center">Unten mitte</string>
+    <string name="recents_clear_all_location_bottom_left">Unten links</string>
 
     <!-- BitSyko Layers -->
     <string name="bitsyko_layers">Layers</string>
 
     <!-- Volume Keys Media Control -->
-    <string name="volume_keys_control_media_stream">Media control</string>
-    <string name="volume_keys_control_media_stream_summary">Volume keys control media volume rather than notifications</string>
+    <string name="volume_keys_control_media_stream">Mediensteuerung</string>
+    <string name="volume_keys_control_media_stream_summary">Lautstärketasten steuern Medienlautstärke und nicht Benachrichtigungen</string>
 
     <!-- Camera sound switch -->
-    <string name="camera_sounds_title">Camera shutter sound</string>
-    <string name="camera_sounds_summary">Enable system camera shutter sound</string>
-    <string name="camera_sound_warning_dialog_text">Disabling the camera shutter sound is illegal in some areas! Please check the applicable law in your country</string>
+    <string name="camera_sounds_title">Kameraauslösegeräusch</string>
+    <string name="camera_sounds_summary">Aktiviere Kameraauslösegeräusch</string>
+    <string name="camera_sound_warning_dialog_text">Deaktivieren des Kameraauslösegeräusch ist in einigen Ländern verboten! Überprüfen Sie bitte das anwendbare Recht in Ihrem Land</string>
 
     <!-- Wakeup options -->
-    <string name="display_category_wakeup_options_title">Wakeup options</string>
-    <string name="pref_volume_wake_title">Volume rocker wake</string>
-    <string name="pref_volume_wake_summary">Pressing the volume rocker up/down will wake the device</string>
-    <string name="wakeup_when_plugged_unplugged_title">Wake up on charge</string>
-    <string name="wakeup_when_plugged_unplugged_summary">Wake up device if charger is plugged/unplugged.</string>
+    <string name="display_category_wakeup_options_title">Aufwachoptionen</string>
+    <string name="pref_volume_wake_title">Lautstärkewippe weckt auf</string>
+    <string name="pref_volume_wake_summary">Durch Drücken der Lautstärkewippe nach oben/unten wird das Gerät geweckt</string>
+    <string name="wakeup_when_plugged_unplugged_title">Aufwachen beim Laden</string>
+    <string name="wakeup_when_plugged_unplugged_summary">Aufwachen wenn Ladegerät eingesteckt/abgezogen wird</string>
 
     <!-- Status bar double-tap to sleep -->
     <string name="status_bar_double_tap_to_sleep_title">Double-tap to sleep</string>
